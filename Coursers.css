@@ -1,0 +1,45 @@
+.first{
+    
+    margin-left: 18rem;
+    
+}
+
+.sublist{
+    display: flex;
+ 
+    
+}
+
+#last{
+    margin-right: 1rem;
+}
+
+#firstyear{
+    text-align: center;
+}
+
+#sub1{
+    height: 30%;
+    width: 100%;
+    
+   
+}
+
+.sub1{
+    border: 1px solid;
+    width: 20%;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    height: 10%;
+    
+}
+
+.topic1{
+    text-align: center;
+}
+
+#discription{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+

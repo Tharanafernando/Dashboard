@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+#dash{
+    position: fixed;
+    width: 15%;
+    line-height: 300%;
+    padding-right: 3.1rem;
+    background-color: rgb(103, 126, 226);
+    
+}
+
+#superitem{
+    padding-top: 0.5rem; 
+    padding-bottom: 1rem;
+}
+#item{
+    text-align: center;
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    color: white;
+}
+
+
+
+.subitem{
+    padding-left: 10%;
+    width:106%;
+    cursor: pointer;
+    
+}
+
+.subitem:hover{
+    background-color: rgb(183, 177, 177);
+    transition: 0.5s ease-in-out ;
+    
+}
+
+
+.footeritem{
+    padding-top: 78%;
+    text-align: center;
+    position: sticky;
+}
+#topic{
+    background-color: indigo;
+    text-align: center;
+    width: 105.5%;
+    padding-left: 2rem;
+    position:static;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.topicclass{
+    color: whitesmoke;
+    padding-right: 2rem;
+    font-family: "Mulish", sans-serif;
+}
+
+
+#item{
+    padding-top: 1rem;
+}
